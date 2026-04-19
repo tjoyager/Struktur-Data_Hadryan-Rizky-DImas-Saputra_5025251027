@@ -1,4 +1,4 @@
-// implementasi Queue pada Link Listed di C++
+// implementasi Queue pada Linked List di C++
 
 #include <bits/stdc++.h>
 using namespace std;
