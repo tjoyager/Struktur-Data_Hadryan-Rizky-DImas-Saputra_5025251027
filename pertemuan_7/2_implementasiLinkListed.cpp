@@ -48,7 +48,7 @@ public:
         front = front->next;
 
         if(front == NULL) {
-            rear == NULL;
+            rear = NULL;
         }
 
         delete temp;
